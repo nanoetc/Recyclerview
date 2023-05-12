@@ -1,6 +1,6 @@
 # Recyclerview_bagustrihandono
-Nama : Bagus tri handono 
-Kelas : 20.TI.B1
-NIM : 312010170
+Nama : Bagus tri handono </n>
+Kelas : 20.TI.B1</n>
+NIM : 312010170</n>
 
 PROJECT UTS 
